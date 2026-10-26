@@ -26,4 +26,3 @@ This project examines the empirical relationship between caffeine dosage, memory
 ## Statistical Output
 ![pspp output](Screenshot 2026-10-26 221923.png)
 
-
