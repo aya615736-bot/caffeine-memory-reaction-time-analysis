@@ -23,3 +23,5 @@ This project examines the empirical relationship between caffeine dosage, memory
 
 ## APA Style Reporting
 - A Pearson correlation coefficient was computed to assess the linear relationship between caffeine dosage and memory scores. There was a statistically significant positive correlation between the two variables, $r(8) = .968, p < .001$.
+## Statistical Output
+![PSPP Output](result.screenshort #2026-10-26)
